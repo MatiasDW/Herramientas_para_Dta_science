@@ -1,0 +1,34 @@
+paquete 1000 1
+t 10
+perdidos
+paquete 30 1
+paquete 30 2
+paquete 30 3
+t 20
+t 30 
+t 40
+t 50
+perdidos
+paquete 60 2
+paquete 70 1
+t 60
+t 70
+perdidos
+paquete 100 2
+paquete 100 1
+perdidos
+t 80
+t 90
+t 100
+perdidos
+paquete 110 2
+paquete 130 2
+t 110
+paquete 170 1
+paquete 170 1
+paquete 170 1
+t 120
+t 130
+t 140
+t 150
+perdidos
